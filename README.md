@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Gitzak/flutter-auth-1-firebase/blob/main/screenShot.png)
 
 # flutter_auth_1
 
